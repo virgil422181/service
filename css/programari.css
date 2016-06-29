@@ -1,0 +1,14 @@
+@media(min-width:768px) {
+    .sidebar {
+        margin-left: -195px;
+    }
+    #page-wrapper {
+        margin: 0 0 0 60px;
+    }
+    #programator_wrapper {
+        overflow: hidden;
+    }
+}
+ul.ui-autocomplete {
+    z-index: 1100;
+}

@@ -1,0 +1,1 @@
+<?php$modifyUser = $user->getUser($session->user_id);$profilTemplate = include_once 'views/user/profil.php';return $profilTemplate;

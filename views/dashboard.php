@@ -1,0 +1,1 @@
+<?phpreturn "    <!-- Step 1: Create the containing elements. -->    <section id='view-selector'></section>    <section id='timeline'></section>    <section id='auth-button'></section>";

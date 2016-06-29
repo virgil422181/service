@@ -1,0 +1,1 @@
+<?php$pageData->title .= "Vezi toti utilizatorii";$allUsers = $user->getAllUsers();$pageTemplate = include_once 'views/users/all-users.php';return $pageTemplate;
